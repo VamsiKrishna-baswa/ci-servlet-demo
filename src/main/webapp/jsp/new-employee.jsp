@@ -10,7 +10,8 @@
         <script src="/js/jquery.min.js"></script>
 
         <script src="/js/bootstrap.min.js" ></script>  
-    </head>
+	    <title> New Employee Page </title>
+>    </head>
     <body>
         <div class="container">
             <form action="employee" method="post"  role="form" data-toggle="validator" >
