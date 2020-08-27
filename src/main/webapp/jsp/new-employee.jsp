@@ -10,6 +10,7 @@
         <script src="/js/jquery.min.js"></script>
 
         <script src="/js/bootstrap.min.js" ></script>  
+	    <title> New Employee Page </title>
     </head>
     <body>
         <div class="container">
